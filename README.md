@@ -1,5 +1,5 @@
 ## Tiago Paulin
-~ Engenharia de Software - PUCPR
+~ Engenharia de Software - PUCPR <br>
 ~ 20y
  <div>
   <a href="https://github.com/TiagoPaulin">
