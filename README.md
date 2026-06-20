@@ -18,6 +18,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPaulin&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
+---
+
+### Contato
+
 *   **LinkedIn:** [https://www.linkedin.com/in/tiago-paulin/](https://www.linkedin.com/in/tiago-paulin/)
 *   **E-mail:** tiagopaulin.dev@gmail.com
 
